@@ -1,0 +1,7 @@
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMark\obj\Debug\BulletProof_QuestionMark.csprojResolveAssemblyReference.cache
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMark\obj\Debug\BulletProof_QuestionMark.csproj.CoreCompileInputs.cache
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMark\bin\Debug\BulletProof_QuestionMark.exe.config
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMark\bin\Debug\BulletProof_QuestionMark.exe
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMark\bin\Debug\BulletProof_QuestionMark.pdb
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMark\obj\Debug\BulletProof_QuestionMark.exe
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMark\obj\Debug\BulletProof_QuestionMark.pdb

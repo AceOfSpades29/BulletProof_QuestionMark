@@ -1,0 +1,10 @@
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMarkTests\obj\Debug\BulletProof_QuestionMarkTests.csprojResolveAssemblyReference.cache
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMarkTests\obj\Debug\BulletProof_QuestionMarkTests.csproj.CoreCompileInputs.cache
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMarkTests\bin\Debug\BulletProof_QuestionMarkTests.dll
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMarkTests\bin\Debug\BulletProof_QuestionMarkTests.pdb
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMarkTests\bin\Debug\BulletProof_QuestionMark.exe
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMarkTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMarkTests\bin\Debug\BulletProof_QuestionMark.pdb
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMarkTests\bin\Debug\BulletProof_QuestionMark.exe.config
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMarkTests\obj\Debug\BulletProof_QuestionMarkTests.dll
+c:\users\williasa\documents\visual studio 2017\Projects\BulletProof_QuestionMark\BulletProof_QuestionMarkTests\obj\Debug\BulletProof_QuestionMarkTests.pdb
